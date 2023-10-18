@@ -37,7 +37,7 @@
    git clone https://github.com/zaphire12/fastApiProject.git
    ```
 4.  Разверните базу данных используя файл [docker-compose.yml](docker-compose.yml):
-    > Для хранения данных нашего проекта мы используем Docker и Docker Compose. Прежде чем начать, убедитесь, что Docker и Docker Compose установлены на вашем компьютере.
+    > Далее в проекте мы используем Docker и Docker Compose. Прежде чем начать, убедитесь, что Docker и Docker Compose установлены на вашем компьютере.
   Если они не установлены, выполните установку Docker и Python согласно официальным инструкциям.
    ```bash
    docker-compose -f docker-compose.yml up
